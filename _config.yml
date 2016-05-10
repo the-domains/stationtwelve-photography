@@ -1,0 +1,28 @@
+name: StationTwelve Photography
+favicon: null
+layout_spectrum: 0.853112680837512
+typography_spectrum: 0.6192772351205349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5410978209692985
+  lightness: 0.05767766572535038
+  saturation: 0.8121167875360698
+  rhythmicContrast: 0.2378423879854381
+purpose: []
